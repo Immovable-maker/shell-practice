@@ -38,4 +38,9 @@ echo $!
 # source practice_shell.sh 이거 뭔가 좀 다른데?
 
 
+# symlink
+# ln -s [대상 원본 파일] [새로 만들 파일 이름]
+
+# 링크 해제
+# rm [링크 파일] 등등..
 
